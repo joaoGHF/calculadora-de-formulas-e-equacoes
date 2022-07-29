@@ -3,6 +3,10 @@
 ## :memo: Descrição:
 Um site completo que pode calcular variadas fórmulas e equações
 
+## Aparência: 
+![print1](https://user-images.githubusercontent.com/99850827/181659661-7f39ba11-9c73-4073-9ea5-6203aec706a8.png)
+![print2](https://user-images.githubusercontent.com/99850827/181660594-051f744a-305a-4ee1-bb5b-9791f567e583.png)
+
 ## :books: Funcionalidades
 <ul>
   <li>Calcula fórmulas e equações;</li>
