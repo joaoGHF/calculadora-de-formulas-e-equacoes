@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: calculadora-de-formulas-e-equacoes</h1>
 
 ## :memo: Descrição:
-Um site completo que pode calcular variadas fórmulas e equações
+Site desenvolvido com HTML, CSS, JS para calcular variadas fórmulas e equações.
 
 ## Aparência: 
 ![print1](https://user-images.githubusercontent.com/99850827/181659661-7f39ba11-9c73-4073-9ea5-6203aec706a8.png)
